@@ -1,8 +1,8 @@
 ## UKADVANTURE   Tourism-Website
-**Author :- Mohd Kaif**
-
 UKADVANTURE is a fully responsive Tour & Travel website. <br/>
 Responsive for all devices, build using HTML, CSS, and JS. <br/>
+
+## Author : [@MohdKaif](https://github.com/Kaif0412)
 
 ## live Demo :-
 Check out a live demo of the project [HERE](https://ukadvanture.netlify.app/)
@@ -28,6 +28,11 @@ git clone https://github.com/Kaif0412/Tourism-Website
 [![twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohdkaif0412/?utm_source=qr)
 
+## Contributing:-
+Contribbutions are always welcome! Just raise an issue, we will discuss it 
+
+## Feedback :-
+If you have any feedback, please reach out to me [here] (https://www.linkedin.com/in/mohdkaif0412/)
+
 ## License :-
 This project is free to use and does not contains any license.
-

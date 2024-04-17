@@ -7,7 +7,7 @@ Responsive for all devices, build using HTML, CSS, and JS. <br/>
 <br/>
 
 ## live Demo :-
-Check out a live demo of the project [HERE](https://savorsquare-restaurant.netlify.app/)
+Check out a live demo of the project [HERE](https://ukadvanture.netlify.app/)
 
 ## Demo Screenshots :- 
 <img width="960" alt="Screenshot" src="https://github.com/Kaif0412/Tourism-Website/assets/146923382/0163bed5-7884-4081-ab76-329c3f674d28">

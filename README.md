@@ -1,10 +1,8 @@
-## Tourism Website
+## UKADVANTURE   Tourism-Website
+**Author :- Mohd Kaif**
 
 UKADVANTURE is a fully responsive Tour & Travel website. <br/>
 Responsive for all devices, build using HTML, CSS, and JS. <br/>
-
-## Author :- Mohd Kaif
-<br/>
 
 ## live Demo :-
 Check out a live demo of the project [HERE](https://ukadvanture.netlify.app/)

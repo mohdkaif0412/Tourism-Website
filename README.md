@@ -10,18 +10,18 @@ Responsive for all devices, build using HTML, CSS, and JS. <br/>
 Check out a live demo of the project [HERE](https://savorsquare-restaurant.netlify.app/)
 
 ## Demo Screenshots :- 
-<img width="960" alt="Screenshot" src="https://github.com/Kaif0412/BigBite-Restaurant/assets/146923382/c36450dd-e48c-407b-b753-7f8415af3ec9">
+<img width="960" alt="Screenshot" src="https://github.com/Kaif0412/Tourism-Website/assets/146923382/0163bed5-7884-4081-ab76-329c3f674d28">
 
 ## Run Locally :-
 To run Tourism-Website locally, run this command on your git bash:
 
 **Linux and macOS:**
 ``` bash  
-sudo git clone https://github.com/Kaif0412/SavorSquare-Restaurant
+sudo git clone https://github.com/Kaif0412/Tourism-Website
 ```
 **Windows:**
 ``` bash  
-git clone https://github.com/Kaif0412/SavorSquare-Restaurant
+git clone https://github.com/Kaif0412/Tourism-Website
 ```
 
 ## Links :-
